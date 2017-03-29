@@ -1,19 +1,11 @@
-Allen Lao's Personal Portfolio Page
+<h1>Allen Lao's Personal Portfolio Page</h1>
 
-Developed Using:
+<h3>Developed Using:</h3>
 
-Agency Template
-
-Bootstrap
-
-HTML 
-
-CSS
-
-JSON
+Agency Template - Bootstrap - HTML - CSS - JSON
 
 
-Things to work on:
+<h3> Things to work on: </h3>
 
 Email currently does not work due to github pages being static - WIP
 
