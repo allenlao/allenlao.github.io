@@ -2,7 +2,7 @@
 
 <h3>Developed Using:</h3>
 
-Agency Template - Bootstrap - HTML - CSS - JSON
+Bootstrap - HTML - CSS - JSON
 
 
 <h3> Things to work on: </h3>
