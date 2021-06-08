@@ -1,4 +1,4 @@
-<h1>Allen Lao's Personal Portfolio Page</h1>
+<h1>Personal Portfolio Page</h1>
 
 <h3>Developed Using:</h3>
 
